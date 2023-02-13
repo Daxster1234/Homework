@@ -1216,6 +1216,7 @@ data.forEach((arr) => {
   }
 });
 
+console.log(user9);
 console.log(user9.length);
 
 
